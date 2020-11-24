@@ -1,5 +1,6 @@
 # Trabalho-de-Data-Mining
 A ver:
+
 -> outliers;
 
 -> Reduçao da cardinalidade das categóricas;
@@ -17,4 +18,5 @@ Mais à frente:
 -> Clustering.
 
 Notas:
+
 -> Secalhar é melhor não fazer logo o drop das variáveis visto que podemos estar a eliminar uma var que está correlacionada com outra que mais tarde eliminamos devido à variancia por exemplo;
