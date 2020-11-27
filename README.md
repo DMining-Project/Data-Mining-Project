@@ -19,4 +19,4 @@ Mais à frente:
 
 Notas:
 
--> Secalhar é melhor não fazer logo o drop das variáveis visto que podemos estar a eliminar uma var que está correlacionada com outra que mais tarde eliminamos devido à variancia por exemplo;
+-> 
