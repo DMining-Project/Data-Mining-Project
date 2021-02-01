@@ -9,7 +9,7 @@ Our final results were the following:
 
 - Cluster Countryside People – This last cluster represents the ones who live in rural and metropolitan areas (POP90C1, POP90C3, Categories “C” and “D” of GEOCODE2 more frequent, Category “T2” of Domain more frequent), with lower percentage of public sewer (HC19). There are less people with BSc’s degree (EC7), whose income is a little below the mean (IC1) and in the neighbourhood fewer people have high income (IC10, IC11). Furthermore, as a consequence those are the ones who pay lower rents (HV3). The largest group of donors is represented in this cluster. 
 
-### Marketing Strategy for each cluster:
+## Marketing Strategy for each cluster:
   The Marketing proposal for the ones who are single consists in creating a donor’s card individual and untransmissible with a several of benefits according to the number of points it has which increases proportionally to the value of the donation. These benefits include self-love sessions, spa, body treatment, trips, historical museums, adrenaline experiences and blind dates. These options are the result of the partnerships between the PVA and the enterprises who offer them. This offer would be sent by an appealing email with all the details and its advantages explained, having the chance to choose between an online card or a physical one. 
 
   Secondly, our main recommendations for a marketing strategy for the richest people consists in organizing galas or solemn dinners where great part of the recipes will be converted to the PVA Association. In this type of activity, to provide an atmosphere of relaxation there will be a happy hour and live music performed by the most respected artists that have agreements with the PVA organization. 
